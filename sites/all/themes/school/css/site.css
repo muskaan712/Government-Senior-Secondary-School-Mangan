@@ -26,7 +26,7 @@ a:hover {
 .common-right ul li.gov-india {display: none;}
 
 
-.common-wrapper{background:#fc9928;}
+.common-wrapper{background:#8dd1af;}
 .common-left ul li.gov-india{padding:12px 0; color:#fff;}
 .common-right ul li.hindi > a{padding-top:4px; color:#fff;}
 .common-right ul li{border-left: 1px solid #d07e20;}
@@ -44,7 +44,7 @@ a:hover {
 .inner-content h2{font-weight: normal; font-size: 150%; color:#464646; margin: 5px 0;}
 .inner-content h3{font-weight: 600; font-size: 130%; color:#464646; margin: 5px 0;}
 .inner-content p{padding-bottom:0;text-align: justify;}
-.inner-content table th{background: #fc9928; padding: 8px;}
+.inner-content table th{background: #8dd1af; padding: 8px;}
 .inner-content table tr{font-size: 14px;}
 .inner-content table p{padding: 0; margin: 0;}
 .page-about-us-principal-message .view-content img,
@@ -58,7 +58,7 @@ a:hover {
 ul.pager{margin:0; }
 ul.pager li{margin:0 !important; padding:0 !important; list-style:none;}
 ul.pager li:before{content:none !important;}
-ul.pager li a{display:inline-block; background: #fc9928; padding:1px 11px; color: #fff; text-decoration:none;}
+ul.pager li a{display:inline-block; background: #8dd1af; padding:1px 11px; color: #fff; text-decoration:none;}
 ul.pager li.pager-current{background:#ef6a1e;padding:4px 11px !important; color: #fff;}
 
 
@@ -89,7 +89,7 @@ ul.pager li.pager-current{background:#ef6a1e;padding:4px 11px !important; color:
 	padding-top:0;
 }
 .region-school-header .view-content span:nth-child(2) {
-	color: #fc9928;
+	color: #8dd1af;
 	font-weight: 600;
 	font-size:85%;
 	/* float:left; */
@@ -127,7 +127,7 @@ ul.pager li.pager-current{background:#ef6a1e;padding:4px 11px !important; color:
 	border:none;
 	background:none;
 }
-.nice-menu ul li a.active{background:#fc9928; color:#fff;}
+.nice-menu ul li a.active{background:#8dd1af; color:#fff;}
 .nice-menu ul li.menuparent>a:after{content: "\f107"; font-family:FontAwesome; margin-left: 2px;}
 ul.nice-menu-down li.menuparent:hover{background:none;}
 
@@ -143,7 +143,7 @@ ul.nice-menu-down li.menuparent{background:none;}
 .nice-menu ul li a i {
 }
 .nice-menu ul li:hover a, .nice-menu ul li.hover a, .nice-menu ul li.active a {
-	background: #fc9928;
+	background: #8dd1af;
 	text-decoration: none;
 	color: #fff !important;
 }
@@ -181,15 +181,15 @@ ul.nice-menu-down li.menuparent{background:none;}
 }
 
 /*Only Inner page menu*/
-/* .not-front .nice-menu{background: #fc9928; height:36px;} */
+/* .not-front .nice-menu{background: #8dd1af; height:36px;} */
 /* .not-front .nice-menu ul li a{color:#fff;} */
 /* .not-front .nice-menu ul li:hover a{background:#ef6a1e;} */
-/* .not-front .nice-menu ul ul li:hover a{background:#fc9928;} */
+/* .not-front .nice-menu ul ul li:hover a{background:#8dd1af;} */
 
-.nice-menu{background: #fc9928; height:36px;}
+.nice-menu{background: #8dd1af; height:36px;}
 .nice-menu ul li a{color:#fff !important;}
 .nice-menu ul li:hover a{background:#ef6a1e;}
-.nice-menu ul ul li:hover a{background:#fc9928;}
+.nice-menu ul ul li:hover a{background:#8dd1af;}
 
 
 /*nav end*/
@@ -436,7 +436,7 @@ content:''!important;
 	position: absolute;
 	right: -50px;
 	border-radius: 50%;
-	border: 15px solid #fc9928;
+	border: 15px solid #8dd1af;
 	box-sizing: border-box;
 	top: -70px;
 }
@@ -450,7 +450,7 @@ content:''!important;
 }
 .about-us-sec p{margin-bottom:5px;}
 .region-vision-mission .view-footer a, a.abt-sch, .read-mr-sc a {
-	background: #fc9928;
+	background: #8dd1af;
 	color: #fff;
 	padding: 6px 15px;
 	font-size: 88%;
@@ -474,7 +474,7 @@ content:''!important;
 	font-size: 135%;
 	font-weight: bold;
 }
-.announcements h1>a{color:#fc9928; font-size:90%; margin-left:10px;}
+.announcements h1>a{color:#8dd1af; font-size:90%; margin-left:10px;}
 .about-us-sec h1:after, .announcements h1:after, .about-school h1:after {
 	content: '';
 	display: block;
@@ -503,7 +503,7 @@ content:''!important;
 	height: 115px;
 }
 .date-col {
-	background: #fc9928;
+	background: #8dd1af;
 	width:62px;
 	height: 70px;
 	position: absolute;
@@ -537,7 +537,7 @@ content:''!important;
 	padding:2px 0;
 }
 .announcements .pdf-doc a {
-	color: #fc9928;
+	color: #8dd1af;
 }
 /*Minister Section*/
 .minister-section {
@@ -589,7 +589,7 @@ p.minister-name {
 .deputy-commissioner h2 + p{height:61px; text-overflow: ellipsis; overflow: hidden;}
 .i18n-hi .deputy-commissioner h2 + p{height:63px;}
 .minister-content a:hover, .deputy-commissioner a:hover {
-	color: #fc9928;
+	color: #8dd1af;
 }
 .minister-photo img {
 	width: 110px;
@@ -621,7 +621,7 @@ p.minister-name {
 	position: absolute;
 	right: -46px;
 	border-radius: 50%;
-	border: 10px solid #fc9928;
+	border: 10px solid #8dd1af;
 	box-sizing: border-box;
 	top: 5px;
 }
@@ -649,7 +649,7 @@ p.minister-name {
 }
 .about-school ul>li i {
 	font-size: 50%;
-	color: #fc9928;
+	color: #8dd1af;
 	margin-top: 7px;
 	margin-right: 10px;
 }
@@ -859,7 +859,7 @@ ul.gallerytabs li {
 	height: 45px;
 }
 ul.gallerytabs li.current{
-	color: #fc9928;
+	color: #8dd1af;
 }
 .tab-content {
 	display: none;
@@ -870,7 +870,7 @@ ul.gallerytabs li.current{
 	padding:0;
 }
 .view-photo-galery .view-content ul{padding:0;}
-.view-photo-galery .view-content ul li{list-style:none;  margin: 0; width: 24%; float: left;  margin-right: 10px;background: #eee; border-bottom: 2px solid #fc9928; min-height:220px; margin-bottom:20px;}
+.view-photo-galery .view-content ul li{list-style:none;  margin: 0; width: 24%; float: left;  margin-right: 10px;background: #eee; border-bottom: 2px solid #8dd1af; min-height:220px; margin-bottom:20px;}
 .view-photo-galery .view-content ul li img{width:100%; height:150px;  }
 .view-photo-galery .view-content ul li .views-field-title{text-align:center; font-size: 14px; padding: 5px;}
 
@@ -901,7 +901,7 @@ a.bttn-view{color:#ef9132;}
 .youtube-video iframe{margin-top: 5px;}
 
 .view-photo-galleries .view-content ul{padding:0; float:left; width:100%;}
-.view-photo-galleries .view-content ul li{padding:0; width: calc(92% / 4); float: left;margin: 8px; background: #fc9928;
+.view-photo-galleries .view-content ul li{padding:0; width: calc(92% / 4); float: left;margin: 8px; background: #8dd1af;
 height: 230px;  box-shadow:#1d1d1d7a -1px 2px 6px 0px; margin-bottom: 20px;     list-style-type: none;}
 .view-photo-galleries .view-content ul li img{width:100%; height: 170px;}
 .view-photo-galleries .view-content ul li .views-field-name .field-content a{color: #343434; padding: 10px 5px;display:block;font-size: 14px; text-align: center;}
@@ -986,7 +986,7 @@ legend{width:auto;}
     padding:4px 25px !important;
     width: auto !important;
     border: none !important;margin-right: 5px;}
-.form-submit:hover{background:#fc9928  none repeat scroll 0 0;}
+.form-submit:hover{background:#8dd1af  none repeat scroll 0 0;}
     
 #user-login .description{float: right;font-size:75%;width: 41%;}
     
