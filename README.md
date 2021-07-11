@@ -1,1 +1,0 @@
-# Government-Senior-Secondary-School-Mangan
